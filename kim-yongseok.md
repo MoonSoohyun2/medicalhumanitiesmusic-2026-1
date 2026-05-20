@@ -8,6 +8,12 @@ ICD: Z89
 
 # M. Ravel Piano Concerto in D Major for the left hand
 
+“The absence of one hand could not stop his music.
+Nicholas McCarthy performs Piano Concerto for the Left Hand using only his left hand, transforming human pain and determination into a deep and radiant resonance.”[In one of the film's most memorable scenes](https://www.youtube.com/watch?v=P-8n2CpergQ&list=RDP-8n2CpergQ&start_radio=1&t=130s)
+"<img width="370" height="462" alt="kim-yongseok" src="https://github.com/user-attachments/assets/c9d6fa46-750e-47ef-807b-927be6ea9f50" alt="Sublimation" />
+
+# M. Ravel Piano Concerto in D Major for the left hand
+
 This *M. Ravel Piano Concerto in D Major for the left hand*(1929-1931) was composed at the request of Paul Wittgenstein, an Austrian pianist who lost his right arm during World War I. In order to continue his performing career, he commissioned several composers to write works “for the left hand alone,” and Ravel was one of them.
 
 # 모리스 라벨의 왼손을 위한 피아노 협주곡 라 장조
