@@ -2,8 +2,8 @@
 Title: War Requiem, Op.66
 Year: 1962
 Genre: Requiem
-Disease: War
-ICD: War(as a social disease)
+Disease: PTSD
+ICD: F43.1
 ---
 
 
