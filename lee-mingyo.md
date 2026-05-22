@@ -12,4 +12,6 @@ The opera Peter Grimes by the British composer Benjamin Britten (1913–1976) te
 
 # 피터 그라임스
 
-오페라 <Peter Grimes>는 영국 작곡가 Benjamin Britten(1913–1976)이 작곡한 작품으로, 어부 피터 그라임스가 도제의 죽음 이후 마을 사람들의 의심과 배척 속에서 점점 고립되고 정신적으로 무너져 결국 바다에서 생을 마감하는 비극적인 이야기를 담고 있으며, 작품 속 가사는 인간의 고독과 불안, 그리고 심리적 붕괴를 시적으로 표현한다.
+오페라 <Peter Grimes>는 영국 작곡가 Benjamin Britten(1913–1976)이 작곡한 작품으로, 어부 피터 그라임스가 도제의 죽음 이후 마을 사람들의 의심과 배척 속에서 점점 고립되고 정신적으로 무너져 결국 바다에서 생을 마감하는 비극적인 이야기를 담고 있으며, 작품 속 가사는 인간의 고독과 불안, 그리고 심리적 붕괴를 시적으로 표현한다. [Now the Great Bear and Pleiades](https://youtu.be/EuYuGtPK89s?si=rJFI-Krg8Hpx2ROv)
+
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/e28eff9d-ff39-4be0-9331-fd35d3709d9c" />
