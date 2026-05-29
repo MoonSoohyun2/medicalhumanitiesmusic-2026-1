@@ -20,5 +20,5 @@ Composed by Italian musician Riccardo Cocciante (1946–Present), the song "*Le 
 
 # 이미지
 
-<img src="https://github.com/user-attachments/assets/15ae66e4-2664-4cde-8c2e-c7b99027480d" alt="군중에게 조롱받는 콰지모도의 모습" style="width:25%;" />
+<img src="./yang-dongwon.png" alt="군중에게 조롱받는 콰지모도의 모습" style="width:25%;" />
 
