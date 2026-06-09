@@ -22,6 +22,8 @@ This scene can be connected to Week 5, “Can Suffering Be Expressed Through Mus
 
 In this sense, Gattaca and “The Departure” are meaningful for a music-centered medical humanities database. The film and music allow us to think about normality, illness experience, disability, and suffering together. They also show that music can help us sense the emotional and ethical meaning of exclusion without turning illness or disability into a simple tragedy.
 
+This discussion can be further expanded by reading it together with [the database entry on The Classic](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/park-junyoung.md). While Gattaca examines how genetic normalcy and bodily value are constructed in a eugenicist society, The Classic shows another way in which film music can represent disability. In particular, Kim Kwang-seok’s “Love that Hurts Too Much Wasn’t Love” sonically reveals Jun-ha’s hidden visual impairment and unspoken suffering, offering a useful point of comparison for understanding how music can make invisible pain perceptible.
+
 <img src="./park-yumin.png" alt="Dream of Vincent" style="width:25%;" />
 
 # 가타카
@@ -39,6 +41,8 @@ In this sense, Gattaca and “The Departure” are meaningful for a music-center
 이 장면은 5주차 「고통은 음악으로 표현될 수 있는가?」에서 다룬 내용과도 연결된다. 5주차 수업에서는 고통이 말로 쉽게 설명되지 않을 때, 음악이 그 고통을 표현하거나 감각하게 만들 수 있는지에 대해 고민했다. “The Departure”는 빈센트와 제롬의 고통을 직접 설명하지 않는다. 그러나 마이너(단조)와 메이저(장조) 화성을 오가는 미니멀리즘적인 피아노 아르페지오의 반복은 빈센트가 사회의 감시 속에서 버텨온 인내의 삶을 연상시킨다. 여기에 점차 레이어가 쌓이며 웅장해지는 스타카토와 레가토의 현악기 선율은 두 인물의 결말을 단순한 탈출이나 파멸이 아니라, 서로의 부족함을 통해 꿈과 존재의 의미를 완성하고 마침내 각자의 한계를 넘어서는 숭고한 순간으로 감싸 안는다.
 
 이런 점에서 가타카와 “The Departure”는 음악 중심 의료인문학 DB의 항목으로 의미가 있다. 이 작품은 정상성, 질환 경험, 장애, 고통의 문제를 함께 생각하게 한다. 또한 음악이 질병과 장애를 단순한 비극으로 소비하지 않으면서도, 배제된 몸들이 겪는 고통과 존엄을 감각하게 만들 수 있음을 보여준다.
+
+이 논의는 [영화 클래식을 다룬 DB 항목](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/park-junyoung.md)과 함께 읽을 때 더 확장될 수 있다. 가타카가 우생학적 사회 속에서 유전적 정상성과 신체의 가치가 어떻게 구성되는지를 보여준다면, 클래식은 영화음악이 장애를 표현하는 또 다른 방식을 보여준다. 특히 김광석의 「너무 아픈 사랑은 사랑이 아니었음을」은 준하의 숨겨진 시각장애와 말하지 못한 고통을 청각적으로 드러내며, 음악이 보이지 않는 고통을 어떻게 감각하게 만드는지 비교해 볼 수 있는 유용한 사례가 된다.
 
 # 장례식에서 연주되길 희망하는 음악
 
