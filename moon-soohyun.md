@@ -14,6 +14,8 @@ The musical composition effectively conveys Diana’s psychological state. The s
 
 Ultimately, *I Miss the Mountains* captures the dilemma of medication treatment and the struggle for identity experienced by a person with bipolar disorder. Diana wants to escape the suffering caused by her illness, yet she simultaneously longs for the emotions and vitality that she has lost through treatment. Through its striking musical contrasts, the song powerfully communicates these conflicting feelings and helps the audience gain a deeper understanding of Diana’s pain and inner turmoil.
 
+The song I would like to be played at my funeral is [*Fix You*](https://www.youtube.com/watch?v=k4V3Mo61fJM&list=RDk4V3Mo61fJM&start_radio=1) by Coldplay. I chose this song because it conveys a message of comfort and hope even in times of sorrow. The song is about giving strength to people who are going through difficult times and helping them find the courage to move forward again. After I pass away, I hope that my loved ones will not remain trapped in grief but will comfort one another and continue living their lives. In addition, the melody, which begins softly and gradually builds into a powerful and emotional climax, encourages reflection on life while leaving a warm and lasting impression. For these reasons, I would like this song to bring comfort and hope to those who remember me in my final moments.
+
 <img src="./moon-soohyun.png" alt="The Dilemma of Medication Treatment" style="width:70%;" />
 
 # 넥스트 투 노멀
@@ -23,3 +25,5 @@ Ultimately, *I Miss the Mountains* captures the dilemma of medication treatment 
 곡의 음악적 구성은 이러한 다이애나의 심리를 효과적으로 표현한다. 노래 초반부는 잔잔한 어쿠스틱 기타를 중심으로 비교적 단순하고 안정적인 선율이 이어진다. 이는 약물 치료 이후 찾아온 평온하지만 공허한 상태를 상징한다. 그러나 다이애나가 과거의 격렬한 감정을 회상하며 갈망하기 시작하는 순간 음악은 점차 고조되며 강렬한 록 사운드로 폭발한다. 드럼과 전기기타가 더해진 역동적인 편곡은 그녀가 억눌러 왔던 감정의 분출과 내면의 갈등을 생생하게 전달한다. 이러한 음악적 대비는 정상적인 삶을 위해 약을 먹어야 하지만, 약을 먹으면 자신다움을 잃는 양극성 장애 환자의 딜레마를 청각적으로 표현한다. 이러한 방식은 뮤지컬 [지킬 앤 하이드](park-han.md)에서 음악이 인물의 정신 상태를 묘사하는 기법과도 유사하다. 이 작품 역시 지킬과 하이드라는 두 자아의 충돌을 급격한 템포 변화와 강렬한 음역의 대비로 표현한다. 
 
 결국 *I Miss the Mountains*는 양극성 장애 환자가 겪는 약물 치료의 딜레마와 정체성의 혼란을 담아낸 곡이다. 다이애나는 병으로 인한 고통에서 벗어나고 싶지만, 동시에 그 과정에서 잃어버린 자신의 감정과 삶의 생동감을 그리워한다. 이 노래는 음악적 대비를 통해 그러한 복잡한 심리를 설득력 있게 전달하며 관객이 다이애나의 고통과 갈등을 더욱 깊이 이해하도록 돕는다.
+
+나의 장례식에서 연주되길 희망하는 노래는 Coldplay의 [*Fix You*](https://www.youtube.com/watch?v=k4V3Mo61fJM&list=RDk4V3Mo61fJM&start_radio=1)이다. 이 곡을 선택한 이유는 슬픔 속에서도 위로와 희망의 메시지를 전해주기 때문이다. 이 노래는 힘든 시간을 겪는 사람들에게 다시 일어설 수 있는 힘을 주겠다는 내용을 담고 있다. 내가 세상을 떠난 후에도 소중한 사람들이 슬픔에만 머무르기보다 서로를 위로하며 앞으로 나아가기를 바라는 마음을 전할 수 있을 것 같다. 또한 잔잔하게 시작해 점차 웅장해지는 멜로디는 삶을 돌아보게 하면서도 따뜻한 여운을 남겨 장례식의 분위기와 잘 어울린다고 생각한다. 그래서 이 곡이 마지막 순간에 나를 기억하는 사람들에게 위로와 희망을 전해주는 음악이 되었으면 한다.
