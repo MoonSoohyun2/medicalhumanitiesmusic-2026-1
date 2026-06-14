@@ -12,6 +12,7 @@ This piece is a powerful record demonstrating how the psychological state of bip
 In particular, (Harlequin) showcases whimsical leaps and rhythms amidst the brilliant festival atmosphere of a carnival. However, behind that colorful mask hides the composer's unstable psychology. This seems to symbolize the mask that those experiencing mental suffering are forced to wear in order to be classified as "normal" within dominant social norms.
 In the music, [the asymmetrical syncopated melodies that disrupt the downbeats of the 3/4 meter to place emphasis on weak beats](https://www.youtube.com/watch?v=ZSE9VIEtlYU), along with the sudden pauses (rests) arriving at unexpected moments after energetic leaps, vividly depict the anxiety and psychological fractures undulating beneath the mask through the very collapse and fragmentation of the musical form.
 As a mental illness where two opposing states intersect, [this work](ham-yeji.md) aligns with bipolar disorder while simultaneously suggesting that it would be beneficial to reference other musical theatre works that deal with existential fragmentation, such as multiple personalities, in popular culture.
+
 I chose [this song](https://www.youtube.com/watch?v=g-rZeTNIw7E&list=RDg-rZeTNIw7E&start_radio=1) 'Good Night and Good Sleep' because it is neither too sad nor too upbeat, and the lyrics feel like the perfect words to leave behind for my friends and family who come to my funeral.
 
 <img src="./yu-seungwon.png" alt="description" style="width:60%;" />
